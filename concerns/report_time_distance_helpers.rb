@@ -1,0 +1,5 @@
+module ReportTimeDistanceHelpers
+  private
+  
+
+end

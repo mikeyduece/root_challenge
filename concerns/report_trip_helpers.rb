@@ -1,0 +1,4 @@
+module ReportTripHelpers
+  private
+  
+end

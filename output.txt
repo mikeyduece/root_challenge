@@ -1,0 +1,3 @@
+Lauren: 42 miles @ 34mph
+Dan: 39 miles @ 47mph
+Kumi: 0 miles
